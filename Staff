@@ -1,0 +1,17 @@
+INSERT INTO Staff values(NULL,'Mr','Dixon','Andrew',NULL,'1986-06-22','M','2 Broadlea Road',NULL,NULL,'Leeds','LS13 2RZ','01132495631',NULL);
+
+INSERT INTO Staff values(NULL,'Mrs','Davis','Angela',NULL,'1980-02-12','F','2 Nutsford Road',NULL,NULL,'Leeds','LS4 8WQ','01132734827',NULL);
+
+INSERT INTO Staff values(NULL,'Mrs','Parker','Lucy',NULL,'1989-11-08','F','242 Barnsley Road',NULL,NULL,'Leeds','LS12 9PQ','01132234531',NULL);
+
+INSERT INTO Staff values(NULL,'Mr','Smith','Steve',NULL,'1974-01-23','M','Lymister Street',NULL,NULL,'Leeds','LS2 5CE','01132392844',NULL);
+
+INSERT INTO Staff values(NULL,'Mr','Preston','George',NULL,'1986-12-20','M','12 Saxton Road',NULL,NULL,'Leeds','LS5 9WX','01132495631',NULL);
+
+INSERT INTO Staff values(NULL,'Mrs','Smith','Jessica',NULL,'1980-10-06','F','26 Oxford Drive',NULL,NULL,'Leeds','LS23 7YE','01132223424',NULL);
+
+INSERT INTO Staff values(NULL,'Mr','Holloway','Nigel',NULL,'1967-02-13','M','121 Queens Road',NULL,NULL,'Leeds','LS6 0PQ','01132203972',NULL);
+
+INSERT INTO Staff values(NULL,'Mr','Anderson','Harry',NULL,'1981-09-14','M','12 Queens Road',NULL,NULL,'Leeds','LS6 0PQ','01132204439',NULL);
+
+INSERT INTO Staff values(NULL,'Mrs','Edwards','Charlotte',NULL,'1984-12-30','F','1 Port Close',NULL,NULL,'Leeds','LS10 5RR ','01132372645',NULL);
