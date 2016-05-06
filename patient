@@ -1,0 +1,7 @@
+INSERT INTO Patient values(NULL, 'Mr', 'Smith', 'John', 'B', '1990-03-19', 'M', '18 Roman Hill', NULL, 'Burley', 'Leeds', 'LS3 1JB', '07865473123', 'johnsmith@eg.com', 'Diabetic');
+INSERT INTO Patient values(NULL, 'Mr', 'Jones', 'Adam', 'C', '1993-01-12', 'M', '183 Lester Road', NULL, 'Burley', 'Leeds', 'LS3 1XH', '07861234523', 'adam.j@eg.com', 'Blood pressure');
+INSERT INTO Patient values(NULL, 'Mrs', 'Thompson', 'Rhino', 'Kat', '1991-01-19', 'F', '21 Monmouth Hill', NULL, 'Headingley', 'Leeds', 'LS9 3JH', '07123473123', 'Rkat@eg.com', 'Diabetic');
+INSERT INTO Patient values(NULL, 'Ms', 'Adams', 'Claire', 'M', '1991-01-11', 'F', '21 Maps Hill', NULL, 'Headingley', 'Leeds', 'LS2 3JI', '07873401123', 'CAM@eg.com', 'Broken Leg');
+INSERT INTO Patient values(NULL, 'Mrs', 'Saunders', 'Jane', 'A', '1999-09-29', 'F', '999 Belair Rd', NULL, 'Oldam', 'Manchester', 'M12 8NH', '07123182363', 'Jane@eg.com', 'Headaches');
+INSERT INTO Patient values(NULL, 'Mrs', 'Mark', 'Janet', 'S', '1993-05-11', 'F', '1 Burley Place', NULL, 'Headingley', 'Leeds', 'LS10 3RM', '07122492393', 'JanetM@eg.com', 'Spinal Issues');
+INSERT INTO Patient values(NULL, 'Mrs', 'Dixon', 'Tom', 'Jones', '1981-02-29', 'M', '212 Alderton Avenue', NULL, 'Burley', 'Leeds', 'LS12 9AH', '07123491825', 'TomJD@eg.com', 'Bladder issues');
